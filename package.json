@@ -1,0 +1,20 @@
+{
+  "name": "angular-animation-counter",
+  "version": "0.0.1",
+  "description": "This counter animates the change in value of the variable in span when the scope variable is changed",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kop4lyf/angular-animation-counter"
+  },
+  "keywords": [
+    "angular",
+    "js",
+    "javascript",
+    "counter"
+  ],
+  "author": "Kop4lyf",
+  "bugs": {
+    "url": "https://github.com/Kop4lyf/angular-animation-counter/issues"
+  },
+  "homepage": "https://github.com/Kop4lyf/angular-animation-counter"
+}
